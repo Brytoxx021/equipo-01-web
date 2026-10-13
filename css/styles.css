@@ -14,8 +14,8 @@ body {
 
 /* Issue #1 · Cabecera y menú */
 header {
-  background: blue;
-  color: aquamarine;
+  background: rgb(243, 121, 6);
+  color: rgb(0, 0, 0);
   padding: 1rem 1.5rem;
 }
 
@@ -33,7 +33,7 @@ header nav ul {
 }
 
 header nav a {
-  color: #ffffff;
+  color: #000000;
   text-decoration: none;
 }
 
