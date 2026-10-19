@@ -5,8 +5,7 @@
 ## Primeros pasos
 
 1. Haz un fork del repositorio y clónalo en tu equipo.
-2. Instala las dependencias siguiendo el apartado "Instalación" del README.
-3. Busca un issue con la etiqueta `good first issue` y comenta que quieres trabajar en él, para que nadie más lo duplique.
+2. Busca un issue y comenta que quieres trabajar en él, para que nadie más lo duplique.
 
 ## Nombres de rama
 
